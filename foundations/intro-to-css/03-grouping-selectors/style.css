@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+.click-me,.no-click-me
+{
+    font-weight: bold;
+}
+
+.click-me
+{
+background-color: black; color: white;
+}
+
+.no-click-me
+{
+background-color: yellow; color: black;
+}
